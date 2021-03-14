@@ -2,4 +2,4 @@
 The theme and template used for tahmid198.github.io comes from Start 
 Bootstrap.
 
-tahmid198.github.io is intended to be used as a showcase for my portfoilio. I plan to my onging changes as I continue this project.
+tahmid198.github.io is intended to be used as a showcase for my portfoilio.
